@@ -14,5 +14,3 @@ const App = () => {
 };
 
 export default App;
-
-//// Must refresh page to delete Smurf
